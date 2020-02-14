@@ -1,0 +1,17 @@
+.menu {
+  min-height: 100vh;
+}
+
+.noCoins {
+  padding: 16px 30px;
+  line-height: 20px;
+  text-align: center;
+}
+
+.symbol {
+  margin-right: 8px;
+}
+
+.addButtonWrapper {
+  padding: 16px 8px;
+}

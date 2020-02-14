@@ -1,0 +1,13 @@
+.sider {
+  background: #fff;
+}
+
+.content {
+  margin: 24px 16px 0;
+  overflow: initial;
+}
+
+.content > div {
+  padding: 24px;
+  background: #fff;
+}
