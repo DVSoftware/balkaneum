@@ -32,7 +32,7 @@
     "@nestjs/schedule": "^0.2.0",
     "@nestjs/typeorm": "^6.2.0",
     "@nestjs/websockets": "^6.11.5",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "cache-manager": "^2.11.0",
     "cache-manager-ioredis": "^1.0.1",
     "dotenv": "^8.2.0",
